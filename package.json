@@ -2,7 +2,7 @@
   "name": "css-signature-help",
   "displayName": "CSS Signature Help",
   "preview": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provides signature help for CSS in VSCode",
   "license": "MIT",
   "publisher": "hmnd",
