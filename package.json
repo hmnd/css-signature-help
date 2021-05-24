@@ -3,6 +3,8 @@
   "displayName": "CSS Signature Help",
   "preview": true,
   "version": "0.0.1",
+  "description": "Provides signature help for CSS in VSCode",
+  "license": "MIT",
   "publisher": "hmnd",
   "repository": {
     "type": "git",
