@@ -1,4 +1,4 @@
-import vscode from 'vscode';
+import * as vscode from 'vscode';
 
 interface SignatureConfig
   extends Omit<vscode.SignatureInformation, 'parameters'> {
